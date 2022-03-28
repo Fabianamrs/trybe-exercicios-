@@ -1,3 +1,6 @@
-teste linha 1
-teste linha 2
-teste linha 3
+Exercícios práticos 
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
