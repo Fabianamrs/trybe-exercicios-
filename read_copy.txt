@@ -1,0 +1,6 @@
+Exercícios práticos 
+- Unix
+- Bash
+- Git
+- HTML
+- CSS
